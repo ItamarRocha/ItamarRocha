@@ -10,3 +10,4 @@ About me:
 - I’m an undergradute computer engineering student at UFPB (Brasil).
 - I’m currently studying reinforcement learning, deep learning and operations research.
 - Feel free to reach me on any social media in the badges above.
+- Make sure to check some of my work below.
