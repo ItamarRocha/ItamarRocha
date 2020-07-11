@@ -1,16 +1,12 @@
-### Hi there 👋
+### Welcome to my github page
+# Itamar Rocha
 
-<!--
-**ItamarRocha/ItamarRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ItamarRocha)](https://github.com/ItamarRocha)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itamarrocha/)](https://www.linkedin.com/in/itamarrocha/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itamardprf@gmail.com)](mailto:itamardprf@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/itamarprf/)](https://www.instagram.com/itamarprf/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
+- I’m an undergradute computer engineering student at UFPB (Brasil).
+- I’m currently studying reinforcement learning, deep learning and operations research.
+- Feel free to reach me on any social media in the badges above.
