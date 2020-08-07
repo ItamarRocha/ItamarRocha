@@ -9,5 +9,5 @@
 About me:
 - I’m an undergradute computer engineering student at UFPB (Brasil).
 - I’m currently studying reinforcement learning, deep learning and operations research.
-- Feel free to reach me on any social media in the badges above.
+- Feel free to reach me on any social media in the badges above and check my [Github io](itamarrocha.github.io/)
 - Make sure to check some of my work below.
