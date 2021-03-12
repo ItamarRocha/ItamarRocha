@@ -1,14 +1,12 @@
 ### Welcome to my github page
-# Itamar Rocha
 
 ## About me:
-
-- I’m an undergradute computer engineering student at UFPB (Brasil).
+My name is Itamar and I’m an undergradute computer engineering student at UFPB (Brasil).
 - I’m currently studying Artificial Intelligence and Operations Research.
-- Feel free to reach me on any social media in the badges above and check my [Personal website](https://itamarrocha.github.io/)
-- Make sure to check some of my work below.
+- Feel free to reach me on any social media in the badges below and check my [Personal website](https://itamarrocha.github.io/)
+- Make sure to check some of my work 😃.
 
-## Connect with me:
+## Get in touch:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ItamarRocha)](https://github.com/ItamarRocha)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itamarrocha/)](https://www.linkedin.com/in/itamarrocha/)
