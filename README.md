@@ -18,3 +18,8 @@
 ## Github Stats
 
 ![Itamars's github stats](https://github-readme-stats.vercel.app/api?username=ItamarRocha&count_private=true&show_icons=true&theme=algolia)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ItamarRocha/count.svg" />
+</p>
