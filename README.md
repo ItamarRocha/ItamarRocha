@@ -13,9 +13,9 @@ My name is Itamar and I’m an undergradute computer engineering student at UFPB
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/itamarprf/)](https://www.instagram.com/itamarprf/)
 
 ## Github Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItamarRocha&count_private=true&show_icons=true&theme=algolia" />
-</p>
+</p> -->
 
 <p align="center"> 
   Visitor count<br>
