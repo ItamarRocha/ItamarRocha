@@ -1,7 +1,7 @@
 ### Welcome to my github page
 
 ## About me:
-My name is Itamar and I’m an undergradute computer engineering student at UFPB (Brasil).
+My name is Itamar Rocha Filho and I’m an undergradute computer engineering student at UFPB (Brasil).
 - I’m currently studying Artificial Intelligence and Operations Research.
 - Feel free to reach me on any social media in the badges below and check my [Personal website](https://itamarrocha.github.io/)
 - Make sure to check some of my work 😃.
