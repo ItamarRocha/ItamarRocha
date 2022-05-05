@@ -1,29 +1,16 @@
 ### Welcome to my github page
 
 ## About me:
-My name is Itamar Rocha Filho and I’m an undergradute computer engineering student at UFPB (Brasil).
-- I’m currently studying Artificial Intelligence and Operations Research.
-- Feel free to reach me on any social media in the badges below and check my [Personal website](https://itamarrocha.github.io/)
-- Make sure to check some of my work 😃.
+I am Itamar, I’m an undergrad computer engineering student at UFPB (Brasil). I have previously interned as a Software Engineer at Google and Meta (Ex-Facebook), and I am currently learning more about the innovation and startup environment.
 
-## Get in touch:
+My main interests nowadays are:
+- Machine Learning.
+- Operations Research.
+- Education.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ItamarRocha)](https://github.com/ItamarRocha)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itamarrocha/)](https://www.linkedin.com/in/itamarrocha/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itamardprf@gmail.com)](mailto:itamardprf@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/itamarprf/)](https://www.instagram.com/itamarprf/)
+Feel free to reach me on any social media in the badges below and check my [Personal website](https://itamarrocha.github.io/). Make sure to check some of my work.
 
-## Github Stats
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItamarRocha&count_private=true&show_icons=true&theme=algolia" />
-</p> -->
+## Social Media
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ItamarRocha/count.svg" />
-</p>
-
-<p align="center"> 
-  Streaks<br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItamarRocha&" alt="ItamarRocha"/>
-</p>
+<a href="https://www.instagram.com/itamarprf/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"> <a href="https://www.linkedin.com/in/itamarrocha/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"> 
+<a href="https://www.github.com/ItamarRocha"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
