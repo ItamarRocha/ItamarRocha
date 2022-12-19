@@ -6,7 +6,6 @@ I am Itamar, I’m an undergrad computer engineering student at UFPB (Brasil). I
 My main interests nowadays are:
 - Innovation and Startups.
 - Machine Learning.
-- Operations Research.
 - Education.
 
 Feel free to reach me on any social media in the badges below. My [Personal website](https://itamarrocha.github.io/).
