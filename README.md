@@ -1,7 +1,7 @@
 ### Welcome to my github page
 
 ## About me:
-I am Itamar, I’m an undergrad computer engineering student at UFPB (Brasil). I have previously interned as a Software Engineer at Google and Meta [Twice] (Ex-Facebook).
+I am Itamar, I’m an undergrad computer engineering student at UFPB (Brasil). I have previously interned as a Software Engineer at Google and Meta (Twice).
 
 My main interests nowadays are:
 - Innovation and Startups.
