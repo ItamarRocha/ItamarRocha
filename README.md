@@ -1,12 +1,9 @@
 ### Welcome to my GitHub page
 
 ## About me:
-I am Itamar, I’m an undergrad computer engineering student at UFPB (Brasil). I have previously interned as a Software Engineer at Google, Meta, and some startups (Praso and Atoptima).
+I like working on products and creating new stuff. Jack of all trades, master of none, but working on that.
 
-My main interests nowadays are:
-- Innovation and Startups.
-- Machine Learning.
-- Education.
+I have a degree in Computer Engineering, and I like reading.
 
 Feel free to reach me on any social media using the badges below. My [Personal website](https://itamarrocha.github.io/).
 
