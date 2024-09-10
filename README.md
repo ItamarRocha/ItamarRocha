@@ -1,7 +1,10 @@
 ### Welcome to my GitHub page
 
 ## About me:
-I like working on products and creating new stuff. Jack of all trades, master of none, but working on that.
+
+I am a Computational Science and Engineering Master's student at Harvard University.
+
+I like working on products, creating new things, and studying AI.
 
 I have a degree in Computer Engineering, and I like reading.
 
