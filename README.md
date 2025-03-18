@@ -4,8 +4,6 @@
 
 I am a Computational Science and Engineering Master's student at Harvard University.
 
-I am a startup guy creating new things and studying AI.
-
 I have a degree in Computer Engineering, and I like reading.
 
 Feel free to reach me on any social media using the badges below. My [Personal website](https://itamarrocha.github.io/).
